@@ -8,7 +8,7 @@ Go to website.
 
 [Group Mascot]
 
-Group Name:
+Group Name:IT REDEFINED
 
 Members:
 * Rohit Saraogi
